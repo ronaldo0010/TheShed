@@ -1,0 +1,1 @@
+var barIndex = 0;

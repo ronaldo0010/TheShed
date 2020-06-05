@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056169058604",
+    "firebase_url": "https://theshedmessaging.firebaseio.com",
+    "project_id": "theshedmessaging",
+    "storage_bucket": "theshedmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056169058604:android:441454ed315f425b8acc89",
+        "android_client_info": {
+          "package_name": "com.group9rw334.rw334"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056169058604-gaamuidukj9g7r6tfoi86vk4ql4qvnf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOG82ra9YNWkzQ21wfupTBhh_b8G9D4QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056169058604-gaamuidukj9g7r6tfoi86vk4ql4qvnf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
